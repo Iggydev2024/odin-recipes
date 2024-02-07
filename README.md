@@ -1,6 +1,6 @@
 # odin-recipes
 
-Recipe for fried rice and mince beef for two
+# Recipe for fried rice and mince beef for two
 ![minced-beef-fried-rice](https://www.kitchensanctuary.com/wp-content/uploads/2022/09/Mince-Beef-Fried-Rice-tall3-16-1.jpg)
 
 ## List of ingredients required
